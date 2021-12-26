@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdelrahman-Soliman
 - 👀 I’m interested in Automation
-- 🌱 I’m currently learning Mechatrnik
+- 🌱 I’m currently learning Mechatronik
 - 💞️ I’m looking to collaborate on automation
 - 📫 How to reach me ...
 
